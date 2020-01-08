@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jekyll on Nosrednawall BLOG</title>
-    <link>nosrednawall.com.br/categories/jekyll/</link>
+    <link>https://www.nosrednawall.com.br/categories/jekyll/</link>
     <description>Recent content in Jekyll on Nosrednawall BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="nosrednawall.com.br/categories/jekyll/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.nosrednawall.com.br/categories/jekyll/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrer vers Hugo depuis Jekyll</title>
-      <link>nosrednawall.com.br/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</link>
+      <link>https://www.nosrednawall.com.br/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>nosrednawall.com.br/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</guid>
+      <guid>https://www.nosrednawall.com.br/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</guid>
       <description>&lt;h2 id=&#34;déplacez-le-contenu-statique-vers-static&#34;&gt;Déplacez le contenu statique vers &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
 &lt;p&gt;Jekyll a une règle comme quoi tout répertoire qui ne commence pas par &lt;code&gt;_&lt;/code&gt; sera
