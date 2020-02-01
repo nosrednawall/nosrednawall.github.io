@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 09:29:19 -0300</lastBuildDate>
     
 	<atom:link href="https://www.nosrednawall.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teste Disqus</title>
+      <link>https://www.nosrednawall.com.br/posts/2020/02/teste-disqus/</link>
+      <pubDate>Sat, 01 Feb 2020 09:29:19 -0300</pubDate>
+      
+      <guid>https://www.nosrednawall.com.br/posts/2020/02/teste-disqus/</guid>
+      <description> O mínimo para funcionar um post --- author: name: &amp;#34;Anderson&amp;#34; date: 2020-02-01T09:29:19-03:00 linktitle: Teste Disqus title: Teste Disqus type: - post - posts tags: - teste - Olá mundo weight: 10 series: - Aprendendo aliases: - /blog/ola-mundo ---</description>
+    </item>
     
     <item>
       <title>Creating a New Theme</title>
