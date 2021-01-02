@@ -1,118 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.nosrednawall.com.br/posts/2020/02/teste-disqus/</loc>
-    <lastmod>2020-02-01T09:29:19-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.nosrednawall.com.br/posts/2014/09/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.nosrednawall.com.br/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.nosrednawall.com.br/about/</loc>
+    <loc>https://nosrednawall.github.io/about/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/posts/2014/04/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://nosrednawall.github.io/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/posts/2014/04/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://nosrednawall.github.io/categories/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/categories/</loc>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/tags/debian/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/tags/dotfiles/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/categories/dotfiles/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/posts/2020/01/dotfiles-i3-polybar-debian/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/tags/i3/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/tags/linux/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/categories/linux/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/</loc>
-    <lastmod>2020-02-01T09:29:19-03:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/tags/polybar/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/tags/ol%C3%A1-mundo/</loc>
-    <lastmod>2020-02-01T09:29:19-03:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/posts/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.nosrednawall.com.br/posts/</loc>
-    <lastmod>2020-02-01T09:29:19-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nosrednawall.com.br/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nosrednawall.com.br/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nosrednawall.com.br/tags/teste/</loc>
-    <lastmod>2020-02-01T09:29:19-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nosrednawall.com.br/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nosrednawall.github.io/tags/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

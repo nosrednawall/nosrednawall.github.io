@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on &lt;h1&gt;Anderson | Blog&lt;/h1&gt;</title>
+    <link>https://nosrednawall.github.io/categories/linux/</link>
+    <description>Recent content in Linux on &lt;h1&gt;Anderson | Blog&lt;/h1&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nosrednawall.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dotfiles I3 &#43; Polybar &#43; Debian</title>
+      <link>https://nosrednawall.github.io/posts/2020/01/dotfiles-i3-polybar-debian/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nosrednawall.github.io/posts/2020/01/dotfiles-i3-polybar-debian/</guid>
+      <description>lorem ipsum</description>
+    </item>
+    
+  </channel>
+</rss>

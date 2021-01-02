@@ -1,86 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nosrednawall BLOG</title>
-    <link>https://www.nosrednawall.com.br/tags/</link>
-    <description>Recent content in Tags on Nosrednawall BLOG</description>
+    <title>Tags on &lt;h1&gt;Anderson | Blog&lt;/h1&gt;</title>
+    <link>https://nosrednawall.github.io/tags/</link>
+    <description>Recent content in Tags on &lt;h1&gt;Anderson | Blog&lt;/h1&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.nosrednawall.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nosrednawall.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Development</title>
-      <link>https://www.nosrednawall.com.br/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Debian</title>
+      <link>https://nosrednawall.github.io/tags/debian/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nosrednawall.com.br/tags/development/</guid>
+      <guid>https://nosrednawall.github.io/tags/debian/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://www.nosrednawall.com.br/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Dotfiles</title>
+      <link>https://nosrednawall.github.io/tags/dotfiles/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nosrednawall.com.br/tags/go/</guid>
+      <guid>https://nosrednawall.github.io/tags/dotfiles/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://www.nosrednawall.com.br/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>I3</title>
+      <link>https://nosrednawall.github.io/tags/i3/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nosrednawall.com.br/tags/golang/</guid>
+      <guid>https://nosrednawall.github.io/tags/i3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://www.nosrednawall.com.br/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Linux</title>
+      <link>https://nosrednawall.github.io/tags/linux/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nosrednawall.com.br/tags/hugo/</guid>
+      <guid>https://nosrednawall.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Olá Mundo</title>
-      <link>https://www.nosrednawall.com.br/tags/ol%C3%A1-mundo/</link>
-      <pubDate>Sat, 01 Feb 2020 09:29:19 -0300</pubDate>
+      <title>Polybar</title>
+      <link>https://nosrednawall.github.io/tags/polybar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nosrednawall.com.br/tags/ol%C3%A1-mundo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Templates</title>
-      <link>https://www.nosrednawall.com.br/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nosrednawall.com.br/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teste</title>
-      <link>https://www.nosrednawall.com.br/tags/teste/</link>
-      <pubDate>Sat, 01 Feb 2020 09:29:19 -0300</pubDate>
-      
-      <guid>https://www.nosrednawall.com.br/tags/teste/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>https://www.nosrednawall.com.br/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nosrednawall.com.br/tags/themes/</guid>
+      <guid>https://nosrednawall.github.io/tags/polybar/</guid>
       <description></description>
     </item>
     
